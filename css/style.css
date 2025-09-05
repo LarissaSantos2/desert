@@ -12,7 +12,7 @@
 .container {
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.10), rgba(0, 0, 0, 0.10)),
     url(../img/sahara.jpg);
   background-position: center;
   background-size: cover;
@@ -118,22 +118,22 @@ button:hover {
 /* imagens específicas para cada card */
 .card1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
-    url(/img/atacama.jpg);
+    url(../img/atacama.jpg);
 }
 
 .card2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
-    url(/img/kalahari.jpg);
+    url(../img/kalahari.jpg);
 }
 
 .card3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
-    url(/img/piramide-gize.jpg);
+    url(../img/piramide-gize.jpg);
 }
 
 .card4 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)),
-    url(/img/westerm.jpg);
+    url(../img/westerm.jpg);
 }
 
 .card:hover {
