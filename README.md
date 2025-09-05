@@ -18,4 +18,4 @@ A página contém:
 2. Abra o arquivo index.html em qualquer navegador.
    
 ```bash
-https://larissasantos2.github.io/car-landing-page/
+https://larissasantos2.github.io/desert/
