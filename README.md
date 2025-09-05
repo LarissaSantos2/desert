@@ -16,3 +16,6 @@ A página contém:
 ## 👀 Como Visualizar  
 1. Clone o repositório ou baixe os arquivos.  
 2. Abra o arquivo index.html em qualquer navegador.
+   
+```bash
+https://larissasantos2.github.io/car-landing-page/
